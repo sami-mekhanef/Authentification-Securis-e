@@ -1,7 +1,7 @@
 # formulaire_auth
 Création d'un formulaire d'authentification sécurisé en utilisant Django, HTML, CSS et SQLite.
 
-<h2>2Technologies Utilisées</h2>:
+<h2>Technologies Utilisées</h2>:
 
 En tant que serveur, j'ai gardé le serveur test de Django. Pour ce qui est des templates utilisées, elles sont faites en HTML5 et CSS natives. Enfin, la base de données est faite en utilisant
 SQLite.
