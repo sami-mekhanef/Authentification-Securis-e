@@ -19,6 +19,6 @@ from connect import views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('login/', views.SignIn, name='signin'),
+    path('', views.SignIn, name='signin'),
     path('signup/', views.SignUp, name='signup'),
 ]
