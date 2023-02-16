@@ -25,5 +25,5 @@ pip install -r requirements.txt
 3) Lancer le serveur
 
 ```
-python3 manage.py runserver
+python3 manage.py runsslserver <votre_ip>:8000
 ```
